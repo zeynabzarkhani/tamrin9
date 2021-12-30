@@ -1,0 +1,7 @@
+10,pofak namaki,1100,50
+11,asal,350000,10
+12,moraba,1000,95
+13,shampp,8000,180
+300,kukakula,25000,42
+500,abmiveh,25000,226
+8,mar pelastiki,32000,9
